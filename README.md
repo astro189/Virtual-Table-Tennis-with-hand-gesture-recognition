@@ -22,8 +22,8 @@
 
 <p>Our last step is to use the received coordinates to move the player object.This can be done by passing the position of the object as the received coordinates.</p>
 
-<video width="320" height="240" autoplay>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+
+
+
+https://user-images.githubusercontent.com/97799598/227694390-0560d2c7-feb7-4ffe-931c-0f09eaa34554.mp4
+
