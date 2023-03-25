@@ -21,3 +21,9 @@
 <H3>Using the coordinates to move the player</H3>
 
 <p>Our last step is to use the received coordinates to move the player object.This can be done by passing the position of the object as the received coordinates.</p>
+
+<video width="320" height="240" autoplay>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
