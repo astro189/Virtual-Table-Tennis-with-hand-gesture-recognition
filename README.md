@@ -1,4 +1,9 @@
 # Virtual-Table-Tennis-with-hand-gesture-recognition
+
+
+https://user-images.githubusercontent.com/97799598/227694390-0560d2c7-feb7-4ffe-931c-0f09eaa34554.mp4
+
+
 <H2>Steps to complete the project</H2>
 <li>Hand Detection using Mediapipe</li>
 <li>extracting the coordinates of the wrist joint</li>
@@ -21,9 +26,4 @@
 <H3>Using the coordinates to move the player</H3>
 
 <p>Our last step is to use the received coordinates to move the player object.This can be done by passing the position of the object as the received coordinates.</p>
-
-
-
-
-https://user-images.githubusercontent.com/97799598/227694390-0560d2c7-feb7-4ffe-931c-0f09eaa34554.mp4
 
